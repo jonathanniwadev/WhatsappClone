@@ -21,7 +21,7 @@ Theming
 Light and Dark mode toggle for enhanced user experience.
 Installation
 Clone the repository:
-git clone https://github.com/JonnyFinder/whatsapp-clone.git
+git clone https://github.com/jonathanniwadev/WhatsappClone.git
 Open the solution in Visual Studio.
 Ensure all dependencies are installed.
 Build and run the application.
